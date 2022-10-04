@@ -9,7 +9,7 @@ manifest:
     - name: mozixun-me
       url-base: https://github.com/mozixun-me
   projects:
-    - name: solfezmk
+    - name: soflezmk
       remote: mozixun-me
       revision: sofle-bongo-cat
       import: app/west.yml
